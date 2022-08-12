@@ -1,6 +1,5 @@
 
 CREATE DATABASE IF NOT EXISTS `TweetDatabase`;
-CREATE DATABASE IF NOT EXISTS `TweetDatabase`;
 CREATE TABLE  IF NOT EXISTS `TweetDatabase`. `TweetInformation` 
 (
     `id` INT NOT NULL AUTO_INCREMENT,
