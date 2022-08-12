@@ -1,5 +1,4 @@
-DROP table `TweetDatabase`. `TweetInformation`;
-DROP DATABASE `TweetDatabase`;
+
 CREATE DATABASE IF NOT EXISTS `TweetDatabase`;
 CREATE DATABASE IF NOT EXISTS `TweetDatabase`;
 CREATE TABLE  IF NOT EXISTS `TweetDatabase`. `TweetInformation` 
